@@ -22,7 +22,7 @@ var data =
     },
     {
     "name": "ballventure",
-    "link": "https://ballventure.netlify.app",
+    "link": "https://ballventure.puter.site",
     "ratings": 0
     },
     {
@@ -32,7 +32,7 @@ var data =
     },
     {
     "name": "gravizone",
-    "link": "https://gravizone.netlify.app",
+    "link": "https://gravizone.puter.site",
     "ratings": 0
     }
 ];
