@@ -32,7 +32,7 @@ var data =
     },
     {
     "name": "gravizone",
-    "link": "https://gravizone.puter.site",
+    "link": "https://gravizone.vercel.app",
     "ratings": 0
     }
 ];
